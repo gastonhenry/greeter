@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option csharp_namespace = "GreetGitHub";
+option csharp_namespace = "ClientGRPC";
 
 package greet;
 
