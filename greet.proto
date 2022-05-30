@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option csharp_namespace = "ClientGRPC";
+option csharp_namespace = "PPMicroserviceTemplate";
 
 package greet;
 
